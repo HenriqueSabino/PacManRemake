@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2f7b15e3e4ed2042886caecd48785ca
+timeCreated: 1512069629
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pellet: {fileID: 1865418598580680, guid: bb70131b7df0aa24e957ed739b271819, type: 2}
+  - superPellet: {fileID: 1397059167788124, guid: bb398fd165e0b76418204253fc8d8446,
+      type: 2}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
